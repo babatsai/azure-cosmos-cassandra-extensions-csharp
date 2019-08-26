@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDnsAwareRRPolicy", "CosmosDnsAwareRRPolicy\CosmosDnsAwareRRPolicy.csproj", "{4E66960B-BCA3-4107-8ED2-42C88DBD3BE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samples", "CosmosDnsAwareRRPolicyTest\Samples.csproj", "{E653F99A-6ADE-4081-B971-92B9DA6C0DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E66960B-BCA3-4107-8ED2-42C88DBD3BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E66960B-BCA3-4107-8ED2-42C88DBD3BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E66960B-BCA3-4107-8ED2-42C88DBD3BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E66960B-BCA3-4107-8ED2-42C88DBD3BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E653F99A-6ADE-4081-B971-92B9DA6C0DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E653F99A-6ADE-4081-B971-92B9DA6C0DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E653F99A-6ADE-4081-B971-92B9DA6C0DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E653F99A-6ADE-4081-B971-92B9DA6C0DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD10731-68FC-467E-A338-8D10B123DD9A}
+	EndGlobalSection
+EndGlobal
